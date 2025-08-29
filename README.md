@@ -8,8 +8,8 @@ O código foi desenvolvido para análises ambientais, agrícolas e hidrológicas
 
 ## ⚙️ Etapas principais do script
 1. **Seleção de imagens Landsat 8**  
-   - Filtra pela área de interesse (`poligono`)  
-   - Período de análise: `2015-04-01` a `2015-09-30`  
+   - Filtra pela área de interesse (`poligono`)
+   - Período de análise: `YYYY-MM-DD'
    - Imagens com cobertura de nuvens inferior a **5%**  
 
 2. **Correções radiométricas**  
