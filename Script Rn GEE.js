@@ -1,4 +1,10 @@
-
+/*
+Luiz Soares Neto
+Instituto de Ciências Atmosfércas - UFAL
+luizsneto211@gmail.com
+luiz.neto@icat.ufal.br
+Last updated on September 03, 2025
+*/
 Map.centerObject(poligono, 10);
 
 var palette = ['#000000', '#666666', '#ffffff', '#ff0000'];
